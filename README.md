@@ -1,5 +1,4 @@
 # Desenvolvimento-Web-Moderno-com-JavaScript
-Exercícios do curso - Desenvolvimento Web Moderno com JavaScript - Estudando e (re)aprendendo JavaScript
 
 Alguns materiais do curso + Projetos, Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap Webpack Gulp MySQL
 
