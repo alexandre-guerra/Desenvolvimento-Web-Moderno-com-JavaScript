@@ -21,6 +21,7 @@ function divisao(gets){
     console.log(q + " " + r);
 }
 
+//testes
 divisao('7 3');
 divisao('7 -3');
 divisao('-7 -3');
